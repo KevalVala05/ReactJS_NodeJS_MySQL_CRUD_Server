@@ -33,9 +33,9 @@ cd backend
 ```
 
 2. **Install dependencies:**
-
-npm install
-
+```bash
+ npm install
+```
 
 3. **Set up environment variables:**
 
@@ -54,7 +54,7 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 
 4. **Run the server**
 ```bash
-npm start
+ npm start
 ```
 
 ## API Endpoints
